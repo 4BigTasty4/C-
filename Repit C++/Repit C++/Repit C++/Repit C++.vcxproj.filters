@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Repit C++.cpp">
+    <ClCompile Include="REPIT C++.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

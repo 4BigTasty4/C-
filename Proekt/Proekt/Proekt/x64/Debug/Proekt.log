@@ -1,0 +1,4 @@
+﻿  DorobotkaProekt.cpp
+C:\Users\user\Desktop\C++\Proekt\Proekt\DorobotkaProekt.cpp(84,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\C++\Proekt\Proekt\DorobotkaProekt.cpp(278,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Proekt.vcxproj -> C:\Users\user\Desktop\C++\Proekt\x64\Debug\Proekt.exe

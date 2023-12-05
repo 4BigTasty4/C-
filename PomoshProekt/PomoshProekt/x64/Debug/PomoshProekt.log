@@ -1,0 +1,32 @@
+﻿  PomoshProekt.cpp
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11,20): error C2011: KEYBOARD_KEYS: переопределение типа "enum"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11): message : см. объявление "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(19,11): error C2374: horizontalLength: переопределение; множественная инициализация
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(19): message : см. объявление "horizontalLength"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(20,11): error C2374: verticalLength: переопределение; множественная инициализация
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(20): message : см. объявление "verticalLength"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(22,5): error C2374: heroX: переопределение; множественная инициализация
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(22): message : см. объявление "heroX"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(23,5): error C2374: heroY: переопределение; множественная инициализация
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(23): message : см. объявление "heroY"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(25,6): error C2084: функция "void InitBorder(int **)" уже имеет текст реализации
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(25): message : см. предыдущее определение "InitBorder"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(44,6): error C2084: функция "void Print(int **)" уже имеет текст реализации
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(44): message : см. предыдущее определение "Print"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(68,5): error C2084: функция "int Input(void)" уже имеет текст реализации
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(68): message : см. предыдущее определение "Input"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(72,6): error C2084: функция "bool Logic(int **,int)" уже имеет текст реализации
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(72): message : см. предыдущее определение "Logic"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(74,22): error C2027: использование неопределенного типа "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11): message : см. объявление "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(78,22): error C2027: использование неопределенного типа "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11): message : см. объявление "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(82,22): error C2027: использование неопределенного типа "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11): message : см. объявление "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(82,26): error C2872: left: неоднозначный символ
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(14,2): message : может быть "KEYBOARD_KEYS left"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\ios(219,37): message : или       "std::ios_base &std::left(std::ios_base &)"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(86,22): error C2027: использование неопределенного типа "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11): message : см. объявление "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(90,22): error C2027: использование неопределенного типа "KEYBOARD_KEYS"
+C:\Users\user\Desktop\C++\PomoshProekt\PomoshProekt\PomoshProekt.cpp(11): message : см. объявление "KEYBOARD_KEYS"

@@ -1,0 +1,3 @@
+﻿  While.cpp
+C:\Users\user\Desktop\C++\While\While\While.cpp(14,6): warning C4101: choose: неиспользованная локальная переменная
+  While.vcxproj -> C:\Users\user\Desktop\C++\While\x64\Debug\While.exe
